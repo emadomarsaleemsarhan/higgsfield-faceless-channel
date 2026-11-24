@@ -1,0 +1,7 @@
+{
+  "name": "higgsfield-faceless-channel",
+  "version": "0.1.0",
+  "description": "End-to-end faceless video channel workflow on Higgsfield: research and script, Seedance scene prompts, production with user-selectable video and audio models, and YouTube thumbnail and title packaging.",
+  "author": { "name": "Emad" },
+  "keywords": ["higgsfield", "faceless", "youtube", "seedance", "arabic"]
+}
